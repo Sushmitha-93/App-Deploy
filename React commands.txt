@@ -1,0 +1,27 @@
+create-react-app app-name
+
+npm start  (If clonned, then do "npm install" first)
+
+------------------------------------------------------------------------------------
+
+git init
+git add .
+git commit -m "First commit"
+git remote add origin githubRepositoryURL
+git push origin master
+
+--------------------------------------------------------------------------------------
+
+npm install --save gh-pages
+
+npm run deploy
+
+----------------------------------------------------------------------------------------
+package.json: add-
+
+"homepage":"https://Sushmitha-93.github.io/repository-name"
+
+"scripts":{
+ "predeploy": "npm run build",
+ "deploy": "gh-pages -d build",
+}
