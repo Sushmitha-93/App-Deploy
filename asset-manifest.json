@@ -1,14 +1,14 @@
 {
-  "main.css": "/Sushmitha-93/App-Deploy/static/css/main.665f4e07.chunk.css",
-  "main.js": "/Sushmitha-93/App-Deploy/static/js/main.d611c7b6.chunk.js",
-  "main.js.map": "/Sushmitha-93/App-Deploy/static/js/main.d611c7b6.chunk.js.map",
-  "runtime~main.js": "/Sushmitha-93/App-Deploy/static/js/runtime~main.00846a93.js",
-  "runtime~main.js.map": "/Sushmitha-93/App-Deploy/static/js/runtime~main.00846a93.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/Sushmitha-93/App-Deploy/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/Sushmitha-93/App-Deploy/static/js/2.6efc73d3.chunk.js.map",
-  "index.html": "/Sushmitha-93/App-Deploy/index.html",
-  "precache-manifest.cf75d6c71b20e4f8c6449715dbdafc5c.js": "/Sushmitha-93/App-Deploy/precache-manifest.cf75d6c71b20e4f8c6449715dbdafc5c.js",
-  "service-worker.js": "/Sushmitha-93/App-Deploy/service-worker.js",
-  "static/css/main.665f4e07.chunk.css.map": "/Sushmitha-93/App-Deploy/static/css/main.665f4e07.chunk.css.map",
-  "static/media/logo.svg": "/Sushmitha-93/App-Deploy/static/media/logo.5d5d9eef.svg"
+  "main.css": "/App-Deploy/static/css/main.665f4e07.chunk.css",
+  "main.js": "/App-Deploy/static/js/main.ca9f5b39.chunk.js",
+  "main.js.map": "/App-Deploy/static/js/main.ca9f5b39.chunk.js.map",
+  "runtime~main.js": "/App-Deploy/static/js/runtime~main.98347b22.js",
+  "runtime~main.js.map": "/App-Deploy/static/js/runtime~main.98347b22.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/App-Deploy/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/App-Deploy/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/App-Deploy/index.html",
+  "precache-manifest.b6a53c61e5ae8029ae52c8c844c038e4.js": "/App-Deploy/precache-manifest.b6a53c61e5ae8029ae52c8c844c038e4.js",
+  "service-worker.js": "/App-Deploy/service-worker.js",
+  "static/css/main.665f4e07.chunk.css.map": "/App-Deploy/static/css/main.665f4e07.chunk.css.map",
+  "static/media/logo.svg": "/App-Deploy/static/media/logo.5d5d9eef.svg"
 }
